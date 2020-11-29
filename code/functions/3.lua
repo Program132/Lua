@@ -1,4 +1,4 @@
-function add(a, b)
+local function add(a, b)
     local result = a + b
     return result -- return value 
 end

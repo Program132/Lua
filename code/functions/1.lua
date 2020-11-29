@@ -1,4 +1,4 @@
-function hello() -- create function
+local function hello() -- create function
     print("Hello here!") -- print
 end
 

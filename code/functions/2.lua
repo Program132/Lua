@@ -1,4 +1,4 @@
-function hello(arg) -- create function with an argument
+local function hello(arg) -- create function with an argument
     print(arg) -- print the argument
 end
 
